@@ -1,0 +1,23 @@
+{
+  "configurations" : [
+    {
+      "id" : "D01A8FFA-8410-4C50-919B-519103D59E92",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:ChatApp1.xcodeproj",
+      "identifier" : "443309C828322CC1005BD99D",
+      "name" : "ChatApp1"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
